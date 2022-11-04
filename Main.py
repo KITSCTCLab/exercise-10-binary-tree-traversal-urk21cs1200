@@ -69,7 +69,3 @@ print()
 preorder(root)
 print()
 postorder(root)
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Term
